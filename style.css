@@ -59,7 +59,46 @@
     padding: 0.5rem;
     border-radius: 1rem;
   }
-  
+  .media-box {
+    display:inline-flex;
+    justify-content: center;
+    align-content: space-around;
+    position: relative;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-left: 95rem;
+
+
+  }
+
+  .blue-logo {
+    position: relative;
+    float: left;
+    height: 2rem;
+    font-size: 2rem;
+    padding-top: 1.8rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+   
+  }
+
+.fa-facebook {
+    color: blue;
+}
+.red-logo {
+    position: relative;
+    float: left;
+    height: 2rem;
+    font-size: 2rem;
+    padding-top: 1.8rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+}
+.fa-youtube {
+    color: red;
+}
+
+
   .video-box1 {
     position: fixed;
     top: 10rem;
